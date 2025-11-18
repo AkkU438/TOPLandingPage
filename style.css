@@ -1,0 +1,12 @@
+.test{
+    margin: auto;
+    align-items: center;
+    color: #f9faf8;
+    background-color: #1f2937;
+    display: flex; 
+    flex-direction: row;
+    gap: 20px;
+}
+a{
+    color: #f9faf8;
+}
